@@ -1,0 +1,9 @@
+#transformers[tf,torch,sentencepiece,vision,optuna,sklearn,onnxruntime]==4.11.3
+#datasets[audio]==1.16.1
+transformers
+datasets
+matplotlib
+pandas
+ipywidgets
+seqeval==1.2.2
+evaluate
