@@ -8,3 +8,5 @@ ipywidgets
 seqeval==1.2.2
 evaluate
 accelerate>=0.20.1
+ray[tune]
+hyperopt
